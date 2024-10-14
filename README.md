@@ -1,4 +1,4 @@
-# 놀줄 아는 노인들을 위한 만남 서비스 "경로당" 
+# 노인들을 위한 만남 서비스 "경로당" 
 <br/>
 
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-# 프로젝트 기획서
+# 프로젝트 기획
 - 시스템 구성도
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/cd784455-bb5f-4260-b127-5d3569533911">
 
